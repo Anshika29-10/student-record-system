@@ -1,22 +1,22 @@
-# Student Record System 📚
+# Student Record System
 
 A simple web application built using **PHP** and **MySQL**.
 
-## 🚀 Features
+##  Features
 - Add new student records
 - View all student entries in a table
 - Delete individual records
 
-## 💡 What I Learned
+## What I Learned
 - PHP-MySQL connectivity
 - HTML forms & CRUD operations
 - Debugging common server/database errors
 
-## 🧠 Challenges I Faced
+##  Challenges I Faced
 - PHP connection errors (solved by using correct password)
 - phpMyAdmin access issue (fixed by setting password in config)
 
-## 🧪 How to Run
+##  How to Run
 1. Copy this folder to `htdocs` in XAMPP
 2. Create a database named `school_db`
 3. Run this SQL in phpMyAdmin:
