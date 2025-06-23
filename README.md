@@ -21,7 +21,7 @@ A simple web application built using **PHP** and **MySQL**.
 2. Create a database named `school_db`
 3. Run this SQL in phpMyAdmin:
 
-```sql
+```sql 
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100),
